@@ -1,0 +1,2 @@
+pbxproj==4.0.0
+macholib==1.16.3
